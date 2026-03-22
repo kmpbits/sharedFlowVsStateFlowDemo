@@ -31,10 +31,6 @@ Or simply use the **Run** button in Android Studio.
 1. Open `iosApp/iosApp.xcworkspace` in Xcode.
 2. Select your simulator/device and press **Run**.
 
-## 📖 Read the Full Article
-For a deep dive into the code and the concepts behind it, check out my article on Medium:
-[Link to your Medium article here]
-
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html).
